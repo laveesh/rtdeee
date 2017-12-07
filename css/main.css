@@ -268,7 +268,7 @@ ul.social-share li a:hover {
 
 @media only screen and (max-width:1024px ){
 	.navbar-inverse .navbar-nav > li > a {
-		font-size: 1.34vw;	
+		font-size: 1vw;	
 	}
 }
 
